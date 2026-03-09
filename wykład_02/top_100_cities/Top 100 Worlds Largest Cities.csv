@@ -1,0 +1,101 @@
+Rank,City,Country,Population (Est.),Area (sq km)
+1,Tokyo,Japan,"37,115,000","8,231"
+2,Delhi,India,"35,500,000","2,344"
+3,Shanghai,China,"31,050,000","4,333"
+4,Dhaka,Bangladesh,"25,360,000","2,570"
+5,Sao Paulo,Brazil,"23,170,000","3,649"
+6,Cairo,Egypt,"23,075,000","2,010"
+7,Mexico City,Mexico,"23,015,000","2,530"
+8,Beijing,China,"22,980,000","4,284"
+9,Mumbai,India,"22,540,000",976
+10,Osaka,Japan,"18,870,000","3,020"
+11,Kinshasa,DR Congo,"18,550,000",511
+12,Chongqing,China,"18,530,000",551
+13,Karachi,Pakistan,"18,520,000","1,124"
+14,Lagos,Nigeria,"17,800,000","1,966"
+15,Istanbul,Turkey,"16,420,000","5,343"
+16,Kolkata,India,"16,150,000","1,352"
+17,Buenos Aires,Argentina,"15,890,000","3,437"
+18,Manila,Philippines,"15,530,000","1,873"
+19,Lahore,Pakistan,"15,240,000","1,772"
+20,Guangzhou,China,"15,150,000","4,535"
+21,Tianjin,China,"14,930,000",541
+22,Bangalore,India,"14,770,000",741
+23,Rio de Janeiro,Brazil,"14,020,000","1,260"
+24,Shenzhen,China,"13,770,000","1,803"
+25,Moscow,Russia,"12,750,000","6,154"
+26,Chennai,India,"12,620,000","1,085"
+27,Bogota,Colombia,"11,920,000",562
+28,Jakarta,Indonesia,"11,840,000","3,546"
+29,Lima,Peru,"11,670,000",891
+30,Hyderabad,India,"11,610,000",889
+31,Bangkok,Thailand,"11,540,000","3,199"
+32,Paris,France,"11,420,000","2,723"
+33,Luanda,Angola,"10,420,000","1,039"
+34,Nanjing,China,"10,380,000","1,398"
+35,Chengdu,China,"10,160,000","1,437"
+36,Ho Chi Minh City,Vietnam,"10,065,000","2,061"
+37,Seoul,South Korea,"10,050,000",605
+38,London,UK,"9,930,000","1,738"
+39,Tehran,Iran,"9,840,000",786
+40,Nagoya,Japan,"9,510,000","3,020"
+41,Xi'an,China,"9,410,000","1,166"
+42,Ahmedabad,India,"9,270,000",365
+43,Kuala Lumpur,Malaysia,"9,175,000","1,345"
+44,Wuhan,China,"9,120,000",711
+45,Dar es Salaam,Tanzania,"8,975,000",909
+46,Surat,India,"8,820,000",287
+47,Suzhou,China,"8,800,000","1,169"
+48,Hangzhou,China,"8,750,000","1,610"
+49,Baghdad,Iraq,"8,370,000",673
+50,New York City,USA,"8,345,000",778
+51,Shenyang,China,"8,110,000","1,230"
+52,Riyadh,Saudi Arabia,"8,080,000","1,091"
+53,Foshan,China,"7,930,000","1,120"
+54,Dongguan,China,"7,875,000","1,215"
+55,Hong Kong,China,"7,810,000","1,106"
+56,Pune,India,"7,705,000",331
+57,Harbin,China,"7,190,000","1,650"
+58,Santiago,Chile,"7,050,000",641
+59,Khartoum,Sudan,"6,980,000","1,010"
+60,Madrid,Spain,"6,835,000",604
+61,Johannesburg,South Africa,"6,560,000","1,445"
+62,Toronto,Canada,"6,550,000",630
+63,Dalian,China,"6,465,000","1,310"
+64,Belo Horizonte,Brazil,"6,400,000",331
+65,Qingdao,China,"6,325,000","1,420"
+66,Zhengzhou,China,"6,280,000","1,015"
+67,Abidjan,Ivory Coast,"6,255,000",422
+68,Addis Ababa,Ethiopia,"6,220,000",527
+69,Singapore,Singapore,"6,195,000",728
+70,Jinan,China,"6,050,000","1,050"
+71,Barcelona,Spain,"5,740,000","1,010"
+72,Yangon,Myanmar,"5,680,000",598
+73,Alexandria,Egypt,"5,650,000",591
+74,Saint Petersburg,Russia,"5,610,000","1,439"
+75,Sydney,Australia,"5,420,000","12,367"
+76,Ankara,Turkey,"5,400,000","1,030"
+77,Guadalajara,Mexico,"5,390,000","2,734"
+78,Melbourne,Australia,"5,360,000","9,992"
+79,Chittagong,Bangladesh,"5,310,000",155
+80,Casablanca,Morocco,"5,280,000",384
+81,Accra,Ghana,"5,250,000","3,245"
+82,Surabaya,Indonesia,"5,190,000",350
+83,Belo Horizonte,Brazil,"5,160,000",331
+84,Monterrey,Mexico,"5,140,000",894
+85,Jaipur,India,"5,090,000",485
+86,Berlin,Germany,"5,050,000",891
+87,Busan,South Korea,"5,010,000",770
+88,Algiers,Algeria,"4,980,000",363
+89,Kabul,Afghanistan,"4,950,000","1,023"
+90,Faisalabad,Pakistan,"4,890,000","1,300"
+91,Rome,Italy,"4,820,000","1,285"
+92,Lucknow,India,"4,760,000","2,528"
+93,Kuwait City,Kuwait,"4,680,000",200
+94,Medellin,Colombia,"4,650,000",380
+95,Dubai,UAE,"4,580,000","1,610"
+96,Taipei,Taiwan,"4,520,000",271
+97,Pyongyang,North Korea,"4,490,000","3,194"
+98,Dakar,Senegal,"4,460,000",550
+99,Baku,Azerbaijan,"4,410,000","2,130"
+100,İzmir,Turkey,"4,380,000",850
